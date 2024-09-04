@@ -38,4 +38,13 @@ To reproduce the results on the datasets, run the following commands:
 
 Feel free to adjust the parameters as needed.
 
+### Reference
+
+@article{wang2023neural,
+  title={Neural common neighbor with completion for link prediction},
+  author={Wang, Xiyuan and Yang, Haotong and Zhang, Muhan},
+  journal={arXiv preprint arXiv:2302.00890},
+  year={2023}
+}
+
 
