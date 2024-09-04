@@ -1,4 +1,4 @@
-# Neural Common Neighbour with Completion for Link Prediction using GraphSage
+# Protein-Protein Link Prediction
 
 This project implements the Neural Common Neighbour with Completion (NCNC) algorithm for link prediction using GraphSage. The NCNC algorithm is based on the research paper titled [Neural Common Neighbour with Completion for Link Prediction], and it extends the GraphSage framework for more accurate link prediction in graph data.
 
