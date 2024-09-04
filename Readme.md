@@ -40,8 +40,7 @@ Feel free to adjust the parameters as needed.
 
 ## Results
 
-![Link Prediction Performance]([https://github.com/akshar2223/Protein-Protein-Link-Predicition/blob/main/Result%20Image.png
-])
+![Link Prediction Performance](https://github.com/akshar2223/Protein-Protein-Link-Predicition/blob/main/Result%20Image.png)
 
 *Figure: Performance comparison of various models on the Cora, Citeseer, and Pubmed datasets.*
 
